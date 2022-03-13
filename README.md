@@ -12,7 +12,7 @@
   - [MongoDB](Link) 
   
 - ### Algorithm ⚙️ 
-  - [W/ Python]()
+  - [W/ Python](https://kangmingyu0503.github.io/categories/#algorithm)
 
 - ### Info 🛠
   - [Cheatsheet](https://github.com/rstacruz/cheatsheets)
