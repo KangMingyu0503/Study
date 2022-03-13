@@ -1,15 +1,16 @@
 ## 📌 MY PERSONAL FILES
 - ### Python 💻
-  - [BS4][](Link)  
-  - [Selenium][](Link)  
-  - [Pandas][](Link)  
-  - [PyQt5][](Link)  
+  - [BS4](Link)  
+  - [Selenium](Link)  
+  - [Pandas](Link)  
+  - [PyQt5](Link)  
+  - [Algorithm](Link)
  
 - ### JavaScript 💻
-  - [JavaScript][](Link)  
-  - [Nodejs][](Link)  
-  - [Jquery][](Link)  
-  - [MongoDB][](Link)  
+  - [JavaScript](Link)  
+  - [Nodejs](Link)  
+  - [Jquery](Link)  
+  - [MongoDB](Link)  
 
 - ### Info 🛠
   - [Cheatsheet](https://github.com/rstacruz/cheatsheets)
