@@ -1,15 +1,17 @@
 ## 📌 MY PERSONAL FILES
 - ### Python 💻
-  - [BS4](Link)  
-  - [Selenium](Link)  
-  - [Pandas](Link)  
+  - [BS4 & Selenium](Link)    
+  - [Road to ML](Link)  
   - [PyQt5](Link)  
  
 - ### JavaScript 💻
   - [JavaScript](Link)  
   - [Nodejs](Link)  
   - [Jquery](Link)  
-  - [MongoDB](Link) 
+
+- ### Server 💾
+  - [MongoDB](Link)
+  - [MariaDB](Link)
   
 - ### Algorithm ⚙️ 
   - [W/ Python](https://kangmingyu0503.github.io/categories/#algorithm)
