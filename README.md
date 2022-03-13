@@ -4,13 +4,15 @@
   - [Selenium](Link)  
   - [Pandas](Link)  
   - [PyQt5](Link)  
-  - [Algorithm](Link)
  
 - ### JavaScript 💻
   - [JavaScript](Link)  
   - [Nodejs](Link)  
   - [Jquery](Link)  
-  - [MongoDB](Link)  
+  - [MongoDB](Link) 
+  
+- ### Algorithm ⚙️ 
+  - [W/ Python]()
 
 - ### Info 🛠
   - [Cheatsheet](https://github.com/rstacruz/cheatsheets)
